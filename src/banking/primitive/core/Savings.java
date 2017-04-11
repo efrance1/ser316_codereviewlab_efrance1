@@ -1,3 +1,12 @@
+/*
+ * File: Savings.java
+ * Author: Dr. Kevin Gary
+ * Date: 04/04/2017
+ * 
+ * Description: This file defines the functionality for making deposits and
+ * withdrawals from a Savings account. 
+ */
+
 package banking.primitive.core;
 
 public class Savings extends Account {
